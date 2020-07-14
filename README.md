@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Dfindid/liqi.githup.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##欢迎来到JOJO个人博客
+这个怎么使用啊，我有点懵
+我想换个好看的主题
+但是没有好的主题库
+###降价
+有好用的markdown吗，我感觉这个不是很好用
+甚至方向健不管用
+建立您提交到该存储库时，GitHub页面都将运行[Jekyll]（https://jekyllrb.com/）从Markdown文件中的内容重建站点中的页面。
 
 ### Markdown
 
@@ -11,9 +14,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+＃标头1
+##我感觉
+###标头3网卡的问题，国内网的github卡的一笔，没法好好玩了
+结束
 
 - Bulleted
 - List
