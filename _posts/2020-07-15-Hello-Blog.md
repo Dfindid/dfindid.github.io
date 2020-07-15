@@ -2,8 +2,8 @@
 layout: post
 title: 'Hello Blog'
 date: 2020-07-15
-author: qi
-cover: ''
+author: liqi
+cover: 'assets/img/cover1.jpg'
 tags: TEST
 ---
 
